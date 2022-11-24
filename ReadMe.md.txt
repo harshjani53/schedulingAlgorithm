@@ -1,0 +1,1 @@
+This scheduling Algorithm only works on data frames. First you have to create object Jani(), then call the method dataProcessing(a,b,c,d,e) Here a--> Your Dataframe b--> 'column name of Job_ID' c--> 'column name of arrival_time of jobs' d--> 'column name of burst_time of jobs' e--> 'time_slice' (default =2 )
