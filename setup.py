@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'jani',
   packages = ['jani'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'This Scheduling Algorithm works on Data Frames',
   author = 'HARSH JANI',
