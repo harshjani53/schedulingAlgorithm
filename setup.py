@@ -10,5 +10,5 @@ setup(
   url = 'https://github.com/harshjani53/schedulingAlgorithm',
   download_url = 'https://github.com/harshjani53/schedulingAlgorithm/archive/refs/tags/0.1.tar.gz',   
   install_requires=[
-        'pandas'
+        'pandas','openpyxl'
       ])
