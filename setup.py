@@ -8,7 +8,7 @@ setup(
   author = 'HARSH JANI',
   author_email = 'harshjani034699@gmail.com',
   url = 'https://github.com/harshjani53/schedulingAlgorithm',
-  download_url = 'https://github.com/harshjani53/schedulingAlgorithm/archive/refs/tags/0.1.tar.gz',   
+  download_url = 'https://github.com/harshjani53/schedulingAlgorithm/archive/refs/tags/0.2.tar.gz',   
   install_requires=[
         'pandas','openpyxl'
       ])
